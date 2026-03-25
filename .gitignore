@@ -1,0 +1,10 @@
+# System folders CLion and cache
+.idea/
+cmake-build-*/
+
+# Compiled files
+*.exe
+*.obj
+*.dll
+*.ninja
+*.log
